@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tema5</string>
+    <string name="Max">Max number</string>
+    <string name="nrIntrodus">Introdu nr</string>
+    <string name="start">Start</string>
+    <string name="verifica">Verifica</string>
+    <string name="nr">nr</string>
+    <string name="alegerefir">Nr ales de fir</string>
+    <string name="castigator">Castigator</string>
+    <string name="o">0</string>
+</resources>

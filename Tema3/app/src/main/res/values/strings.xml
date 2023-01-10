@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tema3_view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="info">Info</string>
+    <string name="todo">TODO</string>
+    <string name="back">Back</string>
+    <string name="rack">rack</string>
+    <string name="pre">pre</string>
+    <string name="mo">modem</string>
+</resources>

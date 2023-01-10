@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laborator8</string>
+    <string name="client">Client</string>
+    <string name="data">Received data</string>
+    <string name="ip">10.0.2.15</string>
+    <string name="port">1234</string>
+    <string name="connect">Connect to server</string>
+    <string name="text">text</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tema1</string>
+    <string name="nume">Nume</string>
+    <string name="prenume">Prenume</string>
+    <string name="email">Email</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="toast2">Toast 2</string>
+    <string name="ni">Nume introdus</string>
+    <string name="pi">Prenume introdus</string>
+    <string name="ei">Email introdus</string>
+</resources>

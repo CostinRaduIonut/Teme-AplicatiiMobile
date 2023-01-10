@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application Server</string>
+    <string name="ip">Server\'S IP</string>
+    <string name="port">Server\'s port</string>
+    <string name="start">Start server</string>
+    <string name="stop">Stop server</string>
+    <string name="mes">text</string>
+    <string name="server">Server</string>
+    <string name="stat">status: no connection</string>
+</resources>

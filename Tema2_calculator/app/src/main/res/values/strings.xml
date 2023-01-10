@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tema2_calculator</string>
+    <string name="nr1">Numar 1</string>
+    <string name="nr2">Numar 2</string>
+    <string name="rez">Rezultat</string>
+    <string name="trimite">Trimite numere</string>
+    <string name="scadere">Scadere</string>
+    <string name="adunare">Adunare</string>
+</resources>

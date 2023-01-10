@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tema6</string>
+    <string name="sunet">Genereaza Sunet</string>
+    <string name="perioada">Perioada (ms)</string>
+    <string name="volum">Volum (0-100)</string>
+    <string name="durata">Durata (100-300)</string>
+    <string name="stop">Stop sunet</string>
+    <string name="todo">TODO</string>
+</resources>

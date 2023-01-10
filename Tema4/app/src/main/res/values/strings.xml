@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema4</string>
+    <string name="titlu">Grupa 2022 - 2023</string>
+    <string name="adauga">Adauga</string>
+    <string name="sterge">Sterge</string>
+    <string name="insert">Introdu text</string>
+</resources>
